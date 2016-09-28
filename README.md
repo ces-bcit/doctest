@@ -1,2 +1,2 @@
 # doctest
-Testing my doc
+This is a readme file.
